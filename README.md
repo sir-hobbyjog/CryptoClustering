@@ -3,6 +3,7 @@
 ## Project Overview  
 
 This project aims to analyze and cluster cryptocurrencies based on their market data and other features to identify patterns and similarities among them. It uses various data science techniques, including data preprocessing, exploration, dimensionality reduction, and clustering to accomplish this task.  
+Starting Code and dataset provided by EdX.
 
 ## Features  
 - Data Preprocessing: Cleans and prepares the cryptocurrency data for analysis.  
